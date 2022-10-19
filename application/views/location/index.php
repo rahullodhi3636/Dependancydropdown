@@ -1,8 +1,6 @@
 <?php
 $this->load->view('templates/header');
 ?>
-
-<br>
 <div class="row">
     <div class="col-lg-12">
         <span id="success-msg"></span>
